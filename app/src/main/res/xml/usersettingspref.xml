@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="startSensorCheck"
+        android:title="Start Sensor" />
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="searchDataCheck"
+        android:title="Search Data" />
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="userSettingsCheck"
+        android:title="User Settings" />
+</PreferenceScreen>
