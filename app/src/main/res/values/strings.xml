@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoraSensorApp</string>
+    <string name="title_activity_visualise_data">visualiseData</string>
+    <string name="title_activity_live_track_data">liveTrackData</string>
+</resources>
